@@ -31,7 +31,8 @@ class School
       students_array.sort do |a,b|
         a<=>b
       end
-          
+    end
+
         end
 
 end
